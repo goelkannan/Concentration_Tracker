@@ -10,11 +10,6 @@ The system then calculates a **concentration score**, shows it live on the video
 
 ---
 
-## 🎥 Demo
-
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRpZ3l2ZDY0M3l6anRvbGV4aGV2N2tvbHJ0MDFodTJ4NmdyYjQ2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVnGU0NJnZHcAAcW2j/giphy.gif)
-
----
 
 ## 🛠️ Features
 
@@ -40,5 +35,5 @@ The system then calculates a **concentration score**, shows it live on the video
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/concentration-tracker.git
-cd concentration-tracker
+git clone https://github.com/goelkannan/Concentration_Tracker.git
+cd Concentration_Tracker
